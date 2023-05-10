@@ -6,10 +6,10 @@ Mi nombre es Anderson Sánchez, soy estudiante de ingenieria en sistemas de la u
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andersonsanchez2001) 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/joaopedro1337" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/andersonsanchez2001" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-  <a href="http://api.whatsapp.com/send?phone=5521972563907" alt="WhatsApp">
+  <a href="http://api.whatsapp.com/send?phone=50231486168" alt="WhatsApp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
