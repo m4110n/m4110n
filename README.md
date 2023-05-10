@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mi nombre es Anderson Sánchez, soy estudiante de ingenieria en sistemas de la universidad Mariano Gálvez de Guatemala, donde estoy cursando el 7º semestre. Siempre estoy en busca de nuevos conocimientos y oportunidades en donde pueda aportar y aprender.
+My name is Anderson Sánchez, I am a systems engineering student at the Mariano Gálvez University in Guatemala, where I am in my 7th semester. I am always looking for new knowledge and opportunities where I can contribute and learn.
 
 
 ## 🌐 Socials:
