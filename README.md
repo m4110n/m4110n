@@ -20,6 +20,12 @@ My name is Anderson Sánchez, I am a systems engineering student at the Mariano 
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4110n&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Icone-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center" alt="Icone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Icone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
