@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Anderson Sánchez, I am a systems engineering student at the Mariano Gálvez University in Guatemala, where I am in my 7th semester. I am always looking for new knowledge and opportunities where I can contribute and learn.
+🌱 Actualmente estoy aprendiendo Tecnologías de Desarrollo Web en Frontend Backend y Bases de Datos (MongoDB).
 
 
 ## 🌐 Socials:
