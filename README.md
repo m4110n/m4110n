@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Actualmente estoy aprendiendo Tecnologías de Desarrollo Web en Frontend Backend y Bases de Datos (MongoDB).
+🌱 I am currently learning Web Development Technologies in Frontend Backend and Databases (MongoDB).
 
 
 ## 🌐 Socials:
